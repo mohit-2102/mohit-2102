@@ -1,17 +1,10 @@
-# Hi, I'm Mohit 
+# Hi, I'm Mohit ⚡
 
 ### Full-Stack Developer
 
 Passionate about building scalable web applications, integrating AI into modern products, and creating clean user experiences.
 
 Building AI-powered web apps with modern full-stack technologies.
-
-### Current Interests
-- Full-stack development
-- AI-powered applications
-- Backend architecture
-- LLM integrations & workflows
-- Scalable systems
 
 ---
 
@@ -29,9 +22,8 @@ Building AI-powered web apps with modern full-stack technologies.
 
 - Building AI-powered full-stack applications
 - Integrating LLMs into modern web apps
-- Learning scalable system design
-- Improving backend architecture skills
-- Writing cleaner and more maintainable code
+- Scalable system design
+- Backend architecture skills
 
 ---
 
