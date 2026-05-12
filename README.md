@@ -18,20 +18,15 @@ Building AI-powered web apps with modern full-stack technologies.
 
 ## 🧠 Skills
 
-### Frontend
-React • Next.js • JavaScript • TypeScript • HTML • CSS • TailwindCSS
+- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS
 
-### Backend
-Node.js • Express.js • MongoDB • SQL • REST APIs
+- **Backend:** Node.js, Express.js, MongoDB, SQL, REST APIs
 
-### AI / Integrations
-LLMs • AI Integrations • AI Workflows • Prompt Engineering • AI-assisted Applications
+- **AI / Integrations:** LLMs, AI Integrations, AI Workflows, Prompt Engineering
 
-### Tools & Platforms
-Git • GitHub • VS Code • Postman • Prisma • Docker • Render • Netlify
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Prisma, Docker, Render, Netlify
 
-### Languages
-JavaScript • TypeScript • C • C++
+- **Languages:** JavaScript, TypeScript, C, C++
 
 ---
 
@@ -48,11 +43,27 @@ JavaScript • TypeScript • C • C++
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-2102&show_icons=true&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohit-2102&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-2102&layout=compact&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-2102&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-2102&theme=tokyo-night&hide_border=true" 
+    width="95%"
+  />
+</p>
 ---
 
 ## 🌐 Portfolio
