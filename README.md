@@ -1,4 +1,4 @@
-# Hi, I'm Mohit 👋
+# Hi, I'm Mohit 
 
 ### Full-Stack Developer
 
@@ -19,13 +19,9 @@ Building AI-powered web apps with modern full-stack technologies.
 ## 🧠 Skills
 
 - **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS
-
 - **Backend:** Node.js, Express.js, MongoDB, SQL, REST APIs
-
 - **AI / Integrations:** LLMs, AI Integrations, AI Workflows, Prompt Engineering
-
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Prisma, Docker, Render, Netlify
-
 - **Languages:** JavaScript, TypeScript, C, C++
 
 ---
@@ -40,30 +36,12 @@ Building AI-powered web apps with modern full-stack technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 🏗️ Projects
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohit-2102&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
+### Currently Building
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-2102&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+Working on full-stack and AI-powered web applications focused on solving real-world problems through scalable systems and clean user experiences.
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-2102&theme=tokyo-night&hide_border=true" 
-    width="95%"
-  />
-</p>
 ---
 
 ## 🌐 Portfolio
@@ -80,4 +58,4 @@ Email: mohit.mathangi@gmail.com
 
 ---
 
-> Building intelligent web experiences with scalable architecture.
+> The future is built by people who get excited about creating it.
