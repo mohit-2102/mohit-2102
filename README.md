@@ -12,7 +12,6 @@ Building AI-powered web apps with modern full-stack technologies.
 - Backend architecture
 - LLM integrations & workflows
 - Scalable systems
-- UI/UX engineering
 
 ---
 
